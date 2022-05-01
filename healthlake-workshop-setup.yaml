@@ -21,7 +21,7 @@ Resources:
     Properties:
       CodeRepositoryName: healthlake-workshop
       GitConfig:
-        RepositoryUrl: https://github.com/aws-samples/healthlake-workshop
+        RepositoryUrl: https://github.com/J-R-B-7/healthlake-workshop
 
   BasicNotebookInstanceLifecycleConfig:
     Type: "AWS::SageMaker::NotebookInstanceLifecycleConfig"
