@@ -51,4 +51,5 @@ integrated NLP and analytics. AWS has partnered with Cognosante, Innovaccer, Red
 InterSystems, Diameter Health, and HealthLX to deliver innovative and transformative
 solutions to federal, state, and local governments.
 ****
-This code is part of the [Amazon HealthLake Workshop](https://amazon-healthlake.workshop.aws/). Please open that link for further instructions.
+- This code is part of the [Amazon HealthLake Workshop](https://amazon-healthlake.workshop.aws/). Please open that link for further instructions.
+- For a detailed report, you can refer to this [link](https://pdfhost.io/v/RwmqHK~NO_Jyoti_Ranjan_Bhoi_AWS_HealthLake_Report)
